@@ -48,13 +48,13 @@ Stella, Nova, Aria, Iris, Elsa
 ### ⭐⭐⭐⭐ Legendary (3 idols)
 Anna, Belle, Jasmine
 
-### Gacha Rates
-| Rarity    | Drop Rate |
+### Gacha Rates (Draw Probability)
+| Rarity    | Draw Rate |
 |-----------|-----------|
-| Common    | 60%       |
-| Rare      | 25%       |
-| Epic      | 10%       |
-| Legendary | 5%        |
+| Common    | 50%       |
+| Rare      | 35%       |
+| Epic      | 13%       |
+| Legendary | 2%        |
 
 ---
 
